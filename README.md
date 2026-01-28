@@ -7,4 +7,6 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Cloud Computing
 - Model Training at Scale
 - CI/CD
+- Safeguarding ML systems
+- Agents and Model Context Protocol (MCP)
 
