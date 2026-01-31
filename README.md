@@ -17,5 +17,8 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Amazon Web Services (AWS)
 - Google Cloud Computing
 - PySpark
+
+
+@Instuctor - Fund Fraida
   
 
