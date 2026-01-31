@@ -10,10 +10,12 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Safeguarding ML systems
 - AI Agents and Model Context Protocol (MCP)
 - Challenges and basic principles of ML systems
+- DevOps
 
 ## Cloud Computing Service Used
 - Chameleon
 - Amazon Web Services (AWS)
 - Google Cloud Computing
+- PySpark
   
 
