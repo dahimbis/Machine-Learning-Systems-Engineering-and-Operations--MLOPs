@@ -25,9 +25,11 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 
 ## Main Cloud Computing Models
 - IaaS - Infrastructure as a Service
-- Paas - Platform as a Service
-- Saas - Software as a Service
-- 
+- CaaS - Container as a Service
+- PaaS - Platform as a Service
+- FaaS - Function as a Service
+- SaaS - Software as a Service
+  
 
 
 @Instuctor - Fund Fraida
