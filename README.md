@@ -21,6 +21,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 ## Tools 
 - Jupyter Notebook
 - Linux Terminal
+- Cloud Computing 
 
 
 @Instuctor - Fund Fraida
