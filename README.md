@@ -21,7 +21,13 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 ## Tools 
 - Jupyter Notebook
 - Linux Terminal
-- Cloud Computing 
+- Cloud Computing
+
+## Main Cloud Computing Models
+- IaaS - Infrastructure as a Service
+- Paas - Platform as a Service
+- Saas - Software as a Service
+- 
 
 
 @Instuctor - Fund Fraida
