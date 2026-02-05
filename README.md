@@ -33,7 +33,8 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - SaaS - Software as a Service
 - AaaS - Anything as a Service
 
-#
+## Lessons Learned
+Deploying a Kubernetes cluster on Chameleon instances
   
 Cloud services mainly include compute, network, databases, and storage
 
