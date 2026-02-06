@@ -40,6 +40,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - CI/CD Pipelines
 - Experiment Tracking
 - Cloud Platforms
+- Containerization
   
 Cloud services mainly include compute, network, databases, and storage
 
