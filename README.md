@@ -34,10 +34,12 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - AaaS - Anything as a Service
 
 ## Lessons Learned
-Deploying a Kubernetes cluster on Chameleon instances
+- Deploying a Kubernetes cluster on Chameleon instances
 - Model Deployment
 - Life Cycle Management
 - CI/CD Pipelines
+- Experiment Tracking
+- Cloud Platforms
   
 Cloud services mainly include compute, network, databases, and storage
 
