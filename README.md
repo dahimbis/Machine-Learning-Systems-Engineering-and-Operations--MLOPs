@@ -48,4 +48,10 @@ Building deployable, reliable, and scalable machine learning systems involves a 
   - Lease and Reservation
   - VM Instances Creation
 
+## Core DevOps principles
+- Version Control
+- IaC/CaC - Infrastructure as Code/Configuration as Code
+- CI/CD - Continuous Integration / Continuous Development
+- Monitoring and Logging 
+
 **Instructor:** Fund Fraida
